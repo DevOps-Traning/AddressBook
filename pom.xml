@@ -170,10 +170,18 @@
 		</dependencies>
         
         <distributionManagement>
-  <repository>
-    <id>subbu</id>
-    <url>http://192.168.176.142:8081/nexus/content/repositories/subbu</url>
-  </repository>
+<repository>
+<id>nexus</id>
+<name>releaserepo</name>
+<url>http://43.204.30.202:8081/repository/arjun-maven-repo-release/</url>
+</repository>
+
+<snapshotRepository>
+<id>nexus</id>
+<name>snapshotrepo</name>
+<url>http://43.204.30.202:8081/repository/arjun-maven-repo-snapshot/</url>
+</snapshotRepository>
+			
 </distributionManagement>
 
     <build>

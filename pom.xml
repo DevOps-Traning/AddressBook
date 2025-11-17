@@ -3,7 +3,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.Nandihal</groupId>
-    <artifactId>addressbook-1.0</artifactId>
+    <artifactId>addressbook</artifactId>
     <packaging>war</packaging>
     <version>2.2-Release</version>
     <name>Vaadin Addressbook example</name>
@@ -218,11 +218,11 @@
 					</excludes>
 				</configuration>
 			</plugin>
-
+<!--
         </plugins>
 		<finalName>addressbook</finalName>
     </build>
-	
+	-->
 	  
     <reporting>
     <plugins>

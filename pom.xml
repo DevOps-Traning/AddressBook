@@ -218,11 +218,13 @@
 					</excludes>
 				</configuration>
 			</plugin>
-<!--
+
         </plugins>
+		<!--
 		<finalName>addressbook</finalName>
+		-->
     </build>
-	-->
+
 	  
     <reporting>
     <plugins>

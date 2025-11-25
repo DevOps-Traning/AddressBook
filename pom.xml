@@ -5,7 +5,7 @@
     <groupId>com.Nandihal</groupId>
     <artifactId>addressbook</artifactId>
     <packaging>war</packaging>
-    <version>2.2-Release</version>
+    <version>2.3-Release</version>
     <name>Vaadin Addressbook example</name>
 
     <properties>

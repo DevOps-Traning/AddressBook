@@ -5,7 +5,7 @@ FROM tomcat:latest
 RUN rm -fr /usr/local/tomcat/webapps/ROOT
 
 # Copy your WAR file into the Tomcat webapps directory
-COPY target/addressbook-2.0-SNAPSHOT.war /usr/local/tomcat/webapps/
+COPY target/addressbook-2.1-SNAPSHOT.war /usr/local/tomcat/webapps/
 
 # Expose Tomcat's port
 EXPOSE 8080

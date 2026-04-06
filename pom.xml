@@ -173,13 +173,13 @@
 <repository>
 <id>nexus</id>
 <name>releaserepo</name>
-<url>http://13.203.71.170:8081/repository/cicd-release/</url>
+<url>http://65.0.109.243:8081/repository/mavenarjunrelease/</url>
 </repository>
 
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://13.203.71.170:8081/repository/cicd-snapshot/</url>
+<url>http://65.0.109.243:8081/repository/maven-snapshots/</url>
 </snapshotRepository>
 			
 </distributionManagement>

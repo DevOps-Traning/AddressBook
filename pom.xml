@@ -179,7 +179,7 @@
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://65.0.109.243:8081/repository/maven-snapshots/</url>
+<url>http://65.0.109.243:8081/repository/mavenarjunsnapshot/</url>
 </snapshotRepository>
 			
 </distributionManagement>

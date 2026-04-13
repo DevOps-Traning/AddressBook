@@ -174,13 +174,13 @@
 <repository>
 <id>nexus</id>
 <name>releaserepo</name>
-<url>http://13.127.196.24:8081/repository/mavenarjunrelease/</url>
+<url>http://52.66.216.106:8081/repository/arjun-maven-release/</url>
 </repository>
 
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://13.127.196.24:8081/repository/mavenarjunsnapshot/</url>
+<url>http://52.66.216.106:8081/repository/arjun-maven-snapshot/</url>
 </snapshotRepository>
 			
 </distributionManagement>
